@@ -1,4 +1,4 @@
-package com.samsung.htmlbuilder;
+package com.blainechai.htmlbuilder;
 
 import java.io.FileWriter;
 import java.io.IOException;

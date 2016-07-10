@@ -1,4 +1,4 @@
-package com.samsung.htmlbuilder.impl;
+package com.blainechai.htmlbuilder.impl;
 
 /**
  * Created by blainechai on 2016. 7. 8..

@@ -1,6 +1,6 @@
-package com.samsung;
+package com.blainechai;
 
-import com.samsung.htmlbuilder.HtmlBuilder;
+import com.blainechai.htmlbuilder.HtmlBuilder;
 
 public class Main {
 
